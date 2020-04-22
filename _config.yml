@@ -140,8 +140,8 @@ menu_settings:
 
 sidebar:
   # Sidebar Position.
-  position: left
-  #position: right
+#  position: left
+  position: right
 
   # Manual define the sidebar width. If commented, will be default for:
   # Muse | Mist: 320
@@ -211,6 +211,7 @@ links:
   #Title: http://yoursite.com
   圣骑士Wind@博客园: http://www.cnblogs.com/mengdd/
   圣骑士Wind@简书: http://www.jianshu.com/u/c4192d22f989
+  圣骑士Wind@掘金: https://juejin.im/user/57ca63748ac247006446cf26
 
 # Table of Contents in the Sidebar
 # Front-matter variable (unsupport wrap expand_all).
