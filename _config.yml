@@ -321,8 +321,8 @@ codeblock:
 # Wechat Subscriber
 wechat_subscriber:
   enabled: true
-  qcode: /uploads/wechat-qcode-8cm.jpg
-  description: 欢迎您关注微信公众号, 订阅我的分享!
+  qcode: /uploads/qrcode_for_gh_0e2ed690dcda_258.jpg
+  description: 欢迎您关注微信公众号圣骑士Wind, 订阅我的分享!
 
 # Reward
 # If true, reward would be displayed in every article by default.
